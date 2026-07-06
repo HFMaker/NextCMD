@@ -15,7 +15,7 @@ It includes 6 differents apps made by me. Those apps are:
 
   ## NOTES
 
-- This is NOT the orignal version of the project. I had to modify the original one due to privacy and copyrith reasons
+- This is NOT the orignal version of the project. I had to modify the original one due to privacy and copyrigth reasons
 - Right now, most of the apps doesn't have music (I think the only one that has music is the calculator)
 I'm searching for some copyright-free music to put on my project
 - The code may be trash, but that's why it was my first project EVER
