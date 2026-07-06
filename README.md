@@ -19,5 +19,10 @@ It includes 6 differents apps made by me. Those apps are:
 - Right now, most of the apps doesn't have music (I think the only one that has music is the calculator)
 I'm searching for some copyright-free music to put on my project
 - The code may be trash, but that's why it was my first project EVER
+- You must have the MPV media player and the Python library "psutil" in order to use this menu
+- Also, you must download all the animes because of obvious reasons (right now you can only watch Re:Zero and SAO)
+You must put all the episodes in their respective anime folder inside apps/animes following the next nomenclature:
+ReZero_TXEXX.mp4 -> Example: ReZero_T1E1.mp4, ReZero_T1E10.mp4
+SAO_TXEXX.mp4 -> Example: SAO_T1E4.mp4, SAO_T3E23.mp4
 
    
