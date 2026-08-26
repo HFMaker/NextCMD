@@ -7,7 +7,7 @@ This is a terminal menu in Python a long time ago that I decided to upload
 It includes 6 differents apps made by me. Those apps are:
 
 - A calculator
-- An PRG Character Creator
+- A basic RPG Character Creator
 - An anime player
 - A note manager that uses JSON files
 - A typing game
