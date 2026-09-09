@@ -1,21 +1,22 @@
 ## NextCMD Project
 
-This is a terminal menu in Python a long time ago that I decided to upload
+This is a terminal menu in Python that I made a long time ago that I decided to upload
+In fact, this is my very first project
 
 # What does this project include?
 
-It includes 6 differents apps made by me. Those apps are:
+It includes 6 different apps made by me. Those apps are:
 
 - A calculator
 - A basic RPG Character Creator
 - An anime player
 - A note manager that uses JSON files
 - A typing game
-- A system information viewer
+- A system information viewer 
 
   ## NOTES
 
-- This is NOT the orignal version of the project. I had to modify the original one due to privacy and copyrigth reasons
+- This is NOT the original version of the project. I had to modify the original one due to privacy and copyrigth reasons
 - Right now, most of the apps doesn't have music (I think the only one that has music is the calculator)
 I'm searching for some copyright-free music to put on my project
 - The code may be trash, but that's why it was my first project EVER
