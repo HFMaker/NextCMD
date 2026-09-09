@@ -1,6 +1,7 @@
 ## NextCMD Project
 
-This is a terminal menu in Python that I made a long time ago that I decided to upload
+This is a terminal menu in Python that I made a long time ago that I decided to upload.
+
 In fact, this is my very first project
 
 # What does this project include?
