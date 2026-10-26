@@ -164,12 +164,12 @@ def run():
                         Media.start_loop_audio("DS_Shop.mp3")
                    
                 else:
-                    slow_print_white("You have to put a valid number, you fucking jew")
+                    slow_print_white("You have to put a valid number, you silly billy")
                     time.sleep(1)
                     clear()
                     continue
             except ValueError:
-                slow_print_white("You have to use numbers, you chinese dog eater")
+                slow_print_white("You have to use numbers, dude")
                 time.sleep(1)
                 clear()
                 continue
